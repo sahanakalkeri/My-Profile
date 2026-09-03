@@ -10,7 +10,7 @@ tech: ['React', 'API'],
 category: 'web',
 featured: true,
 liveUrl: '#',
-githubUrl: 'https://github.com/sahanakalkeri/react-portfolio.git'
+githubUrl: 'https://github.com/sahanakalkeri/My-Profile.git'
 },
 {
 id: 2,
@@ -21,7 +21,7 @@ tech: ['React', 'CSS'],
 category: 'web',
 featured: true,
 liveUrl: '#',
-githubUrl: 'https://github.com/sahanakalkeri/react-portfolio.git'
+githubUrl: 'https://github.com/sahanakalkeri/My-Profile.git'
 },
 {
 id: 3,
@@ -32,7 +32,7 @@ tech: ['JavaScript', 'HTML'],
 category: 'design',
 featured: false,
 liveUrl: '#',
-githubUrl: 'https://github.com/sahanakalkeri/react-portfolio.gitc:\Users\Sahana Kalkeri\OneDrive\Desktop\my project.html\images\pic.jpeg'
+githubUrl: 'https://github.com/sahanakalkeri/My-Profile.git'
 }
 ];
 export const SKILLS = [
